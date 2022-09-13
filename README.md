@@ -1,5 +1,5 @@
 
-For of https://github.com/wanglvhang/OnnxYoloDemo/tree/main/Lvhang.WindowsCapture
+Fork of https://github.com/wanglvhang/OnnxYoloDemo/tree/main/Lvhang.WindowsCapture
 
 nuget package : https://www.nuget.org/packages/Lvhang.WindowsCapture/
 
