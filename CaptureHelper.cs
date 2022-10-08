@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using Windows.Graphics.Capture;
 using WinRT;
 
-namespace Lvhang.WindowsCapture
+namespace WindowsCapture
 {
     public static class CaptureHelper
     {
@@ -23,13 +19,10 @@ namespace Lvhang.WindowsCapture
                 IntPtr hwnd);
         }
 
-
         public static void SetWindow(this GraphicsCapturePicker picker, IntPtr hwnd)
         {
             var interop = picker.As<IInitializeWithWindow>();
             interop.Initialize(hwnd);
         }
-
     }
-
 }

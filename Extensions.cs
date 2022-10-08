@@ -18,7 +18,7 @@ using Windows.Storage.Streams;
 using WinRT;
 using BitmapEncoder = Windows.Graphics.Imaging.BitmapEncoder;
 
-namespace Lvhang.WindowsCapture
+namespace WindowsCapture
 {
     public static class Extensions
     {

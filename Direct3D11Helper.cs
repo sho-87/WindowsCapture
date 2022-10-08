@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Windows.Graphics.DirectX.Direct3D11;
 using WinRT;
 
-namespace Lvhang.WindowsCapture
+namespace WindowsCapture
 {
     public static class Direct3D11Helper
     {

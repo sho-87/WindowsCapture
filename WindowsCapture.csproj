@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0-windows10.0.17763.0</TargetFramework>
+    <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
     <UseWPF>true</UseWPF>
     <Company>lvhang.site</Company>
     <Authors>lvhang.site</Authors>
@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com/wanglvhang/OnnxYoloDemo/tree/main/Lvhang.WindowsCapture</RepositoryUrl>
     <RepositoryType>github</RepositoryType>
     <Version>1.1.0</Version>
+    <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
   </PropertyGroup>
 
   <ItemGroup>

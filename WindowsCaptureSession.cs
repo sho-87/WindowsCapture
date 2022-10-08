@@ -7,7 +7,7 @@ using Windows.Graphics.Capture;
 using Windows.Graphics.DirectX;
 using Windows.Graphics.DirectX.Direct3D11;
 
-namespace Lvhang.WindowsCapture
+namespace WindowsCapture
 {
     public class WindowsCaptureSession : IDisposable
     {
