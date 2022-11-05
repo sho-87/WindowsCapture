@@ -16,6 +16,7 @@
     <SupportedOSPlatformVersion>10.0.17763.0</SupportedOSPlatformVersion>
     <PlatformTarget>AnyCPU</PlatformTarget>
 	<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+	<Platforms>AnyCPU;x64;x86</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
